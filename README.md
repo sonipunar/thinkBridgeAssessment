@@ -1,2 +1,2 @@
 # thinkBridgeAssessment
-Assesment SOlutions
+Assesment Solutions
