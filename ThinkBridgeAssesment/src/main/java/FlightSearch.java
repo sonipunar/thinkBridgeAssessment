@@ -16,9 +16,9 @@ public class FlightSearch {
 
     public WebDriver driver = null;
     public final String url = "http://jt-dev.azurewebsites.net/#/SignUp";
-    public final String name = "Punar";
-    public final String organisation = "Punar";
-    public final String emailAddress = "soniPunar@gmail";
+    public final String name = "yourName";
+    public final String organisation = "organisationName";
+    public final String emailAddress = "giveYourGmail";
 
     @Before
     public void setUp(){
